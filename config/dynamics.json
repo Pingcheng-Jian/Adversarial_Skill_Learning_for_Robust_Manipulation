@@ -1,0 +1,18 @@
+{
+  "inverse_dynamics_push": {
+    "lr_inverse_dyna": [
+      1e-4,
+      5e-5,
+      5e-6,
+      1e-6
+    ],
+    "batch_size": 64,
+    "n-batches": 1000
+  },
+  "dynamics_push": {
+    "lr_dyna": 1e-4,
+    "lr_rew": 1e-4,
+    "batch_size": 64,
+    "n-batches": 1000
+  }
+}

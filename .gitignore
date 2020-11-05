@@ -1,0 +1,15 @@
+.vscode
+.idea
+saved_models
+saved_success_rate
+run_dynamics.sh
+run_policy.sh
+run_policy_2.sh
+run_policy_3.sh
+run_policy_4.sh
+run_ablation.sh
+models
+saved_robel_action
+saved_robel_angle
+saved_training_return
+saved_training_success_rate
