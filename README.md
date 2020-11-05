@@ -1,6 +1,8 @@
 # Adversairial Skil Learning for Robust Manipulation
 This repository implements the code of ICRA2021 paper: Adversairial Skil Learning for Robust Manipulation
 
+Author: Pingcheng Jian, Chao Yang, Di Guo, Huaping Liu, Fuchun Sun
+
 # Requirements
 - run it directly in your python 3 environment with pip:
 
