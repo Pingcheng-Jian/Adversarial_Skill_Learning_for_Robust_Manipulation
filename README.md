@@ -49,17 +49,17 @@ python adversarial_test_double_pick_random_noise.py --algo adversarial_double_pi
 python ad_test_robel.py --ad_factor 0.5 --env-name DClawTurnFixed-v0 --po_agent robust
 ```
 
-6. test normal SAC policy against adversary in DClawTurnFiwed-v0
+7. test normal SAC policy against adversary in DClawTurnFiwed-v0
 ```
 python ad_test_robel.py --ad_factor 0.5 --env-name DClawTurnFixed-v0 --po_agent normal
 ```
 
-6. test protagonist against random noise in DClawTurnFiwed-v0
+8. test protagonist against random noise in DClawTurnFiwed-v0
 ```
 python ad_test_robel.py --ad_factor 0.5 --env-name DClawTurnFixed-v0 --po_agent robust
 ```
 
-6. test normal SAC policy against random noise in DClawTurnFiwed-v0
+9. test normal SAC policy against random noise in DClawTurnFiwed-v0
 ```
 python ad_noise_test_robel.py --ad_factor 0.5 --env-name DClawTurnFixed-v0 --po_agent normal
 ```
