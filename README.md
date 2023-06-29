@@ -7,7 +7,7 @@ We provide the code for *Adversairial Skil Learning for Robust Manipulation* in 
 ``` 
 $ pip install -e .
 ```
-- if you want to install soem extra development tools, using:
+- if you want to install some extra development tools, using:
 
 ``` 
 $ pip install -e .[dev]
